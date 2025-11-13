@@ -1,9 +1,10 @@
 # AFG-Challenge- Agent 007
+Agente Inteligente de Análise de Logs Suspeitos
 ---
 
 Este agente foi desenvolvido na plataforma Azure Foundry AI para realizar a análise de logs suspeitos armazenados no banco de dados. Ele correlaciona dados como hora, país/IP e tipo de evento para identificar padrões anômalos. O agente calcula uma pontuação de suspeita (variando de 0 a 1), classifica os riscos de acordo com essa pontuação e sugeri ações, como a aplicação de MFA, geração de alertas e bloqueios. Além disso, ele gera relatórios detalhados e resumos executivos para as lideranças, facilitando a tomada de decisões rápidas e informadas.
 
-## Agente Inteligente de Análise de Logs Suspeitos — Passo a Passo Explicativo
+## Agente007 — Passo a Passo Explicativo
 
 ---
 
