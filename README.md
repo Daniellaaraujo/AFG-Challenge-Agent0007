@@ -1,5 +1,5 @@
 # AFG-Challenge-Agent0007
-Agente inteligente de análise de logs suspeitos criado na plataforma Azure Foundry AI. Analisar registros do banco, correlando hora, país/IP e tipo de evento. Calcula score de suspeita (0–1), classifica riscos, executa ações automáticas (MFA, alerta, bloqueio) e gera relatório para lideranças.
+Agente inteligente de análise de logs suspeitos criado na plataforma Azure Foundry AI. Analisar registros do banco, relacionando hora, país/IP e tipo de evento. Calcula score de suspeita (0–1), classifica riscos, executa ações automáticas (MFA, alerta, bloqueio) e gera relatório e um resumo para lideranças.
 
 ---
 
@@ -82,17 +82,16 @@ O agente realiza uma análise contextual entre **hora**, **país/IP** e **tipo d
 
 ---
 
-###  **Ações Executadas**
+###  **Ações Sugeridas**
 
-Após a classificação, o agente documenta automaticamente:
+Após a classificação, o agente sugere:
 
-* Bloqueios realizados.
-* MFA (autenticação multifator) ativado.
+* Bloqueios.
+* MFA (autenticação multifator).
 * Alertas emitidos para equipe de segurança.
 * Contas marcadas como “em observação”.
 * Eventos normais descartados.
 
-Esses dados são armazenados para consulta e auditoria posterior.
 
 ---
 
@@ -101,7 +100,7 @@ Esses dados são armazenados para consulta e auditoria posterior.
 **1. Relatório Estruturado em PDF ou Excel**
 O agente gera uma tabela final contendo:
 `Data | Hora | Usuário | Origem | Tipo de Evento | Nível de Suspeita | Score | Ação Aplicada`
-Esse relatório apresenta de forma visual os resultados e serve como base técnica para auditoria.
+Esse relatório apresenta de forma visual os resultados e serve como base técnica para consulta.
 
 **2. Resumo Executivo Automático (E-mail)**
 O agente monta e envia automaticamente um e-mail corporativo às lideranças, contendo:
@@ -129,9 +128,9 @@ Fluxo:
 **Implantação**: gpt-4.1-mini (versão: 2025-04-14)
 
 **Instruções**:
-O agente inteligente foi configurado para analisar registros armazenados no arquivo `logs_suspeitos_200` presente no banco de dados. Ele processa dados como data, hora, usuário, país, IP e tipo de evento, identificando comportamentos anômalos através da correlação entre hora, origem e tipo de log. Considera como normal apenas acessos realizados dentro do horário entre 07h e 20h de países das Américas. Registros fora desses padrões são automaticamente marcados como suspeitos.
+O agente 007 foi configurado para analisar registros armazenados no arquivo `logs_suspeitos_200` presente no banco de dados. Ele processa dados como data, hora, usuário, país, IP e tipo de evento, identificando comportamentos anômalos através da correlação entre hora, origem e tipo de log. Considera como normal apenas acessos realizados dentro do horário entre 07h e 20h de países das Américas. Registros fora desses padrões são automaticamente marcados como suspeitos.
 
-Durante a análise, o agente verifica os seguintes fatores: horários irregulares, países fora das Américas, eventos críticos (como falhas de login ou alterações não autorizadas), tentativas repetidas e padrões anormais de múltiplos IPs. A cada anomalia identificada, um peso parcial é atribuído ao registro, resultando em um score final que varia de 0 a 1.
+Durante a análise, verifica os seguintes fatores: horários irregulares, países fora das Américas, eventos críticos (como falhas de login ou alterações não autorizadas), tentativas repetidas e padrões anormais de múltiplos IPs. A cada anomalia identificada, um peso parcial é atribuído ao registro, resultando em um score final que varia de 0 a 1.
 
 **Classificação de Riscos**:
 O agente classifica os registros conforme o score calculado, adotando as seguintes faixas de risco:
@@ -141,9 +140,9 @@ O agente classifica os registros conforme o score calculado, adotando as seguint
 * **0.61–0.80**: Risco potencial, gera alerta
 * **0.81–1.00**: Alta suspeita, bloqueio automático e notificação à liderança
 
-Após a análise, o agente consolida os resultados em uma tabela contendo: data, hora, usuário, origem, tipo de evento, score e ação tomada. Em seguida, gera um relatório estruturado em PDF e envia um resumo executivo por e-mail às lideranças, destacando o número total de eventos suspeitos, aqueles de alta suspeita, os países de origem, os horários críticos e as ações executadas.
+Após a análise, consolida os resultados em uma tabela contendo: data, hora, usuário, origem, tipo de evento, score e ação tomada. Em seguida, gera um relatório estruturado em PDF e envia um resumo executivo por e-mail às lideranças, destacando o número total de eventos suspeitos, aqueles de alta suspeita, os países de origem, os horários críticos e as ações executadas.
 
-**Comportamento Esperado do Agente**:
+**Comportamento Esperado do Agente 007**:
 
 * Análise imparcial e estruturada em todas as respostas.
 * Explicação clara do raciocínio por trás de cada score calculado.
