@@ -193,6 +193,15 @@ Quarta resposta:
 
 <img width="1219" height="642" alt="image" src="https://github.com/user-attachments/assets/d11393c9-6807-44ff-a709-de63ae49f2c8" />
 
+Foi gerado o PDF, foi necessário algumas requisições para formatar o arquivo:
+
+<img width="1143" height="599" alt="image" src="https://github.com/user-attachments/assets/57876fbd-0b15-4784-a09a-d370be66d5aa" />
+
+O Relatório PDF retornou cada log de usuáriocom o seu Score, o nível de suspeita e a ação a ser tomada. Além de fazer o resumo da análise, como visto nos prints acima. Esse arquivo será anexado ao Read.me.
+<img width="1224" height="641" alt="image" src="https://github.com/user-attachments/assets/16045c05-e655-4665-b7c7-5eb85cda6237" />
+
+Fim!!
+
 
 
 
