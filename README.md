@@ -153,6 +153,22 @@ Comportamento Esperado do Agente
 
 <img width="1363" height="754" alt="image" src="https://github.com/user-attachments/assets/0f2c9b39-01c5-4397-b387-7a73b2200802" />
 
-Feito isso,
+
+Feito isso, na parte de Conhecimento do Foundry o arquivo logs_suspeitos_200.py foi carregado. Esse arquivo contem os dados de input, com os logs de usuários suspeitos para o agente realizar a análise. Trata-se de um repositório de vetores que o índice de pesquisa pode referenciar para recuperação rápida de informações.
+
+<img width="1204" height="726" alt="image" src="https://github.com/user-attachments/assets/2351b578-ffae-4920-a476-c0531f581e94" />
+
+Em seguida, na parte de Ações o arquivo agent_logs_pipeline_50.py foi carregado. Esse arquivo em python dispõe dos codigos necessários para o agente executar a análise, calcular score de suspeita (0–1), classifica riscos, executar ações (MFA, alerta, bloqueio) e gerar relatório para lideranças.
+
+<img width="1216" height="722" alt="image" src="https://github.com/user-attachments/assets/d48bc536-08f4-4baa-a428-634291aef759" />
+
+Realizadas todas as configurações, no Playground Foundry foram inseridos os seguintes Prompts:
+
+Identificar comportamentos anômalos por meio da correlação entre hora, origem geográfica (país/IP) e tipo de evento pelo arquivo logs_suspeitos_200.py para todos os registros da tabela.
+Com base nessa análise, o agente deve calcular um nível de suspeita (0–1) para cada registro, classificar o risco, e definir ações a serem tomadas conforme o nível detectado.
+Feito isso, consolidar as saídas esperadas, ou seja, uma tabela e um resumo executivo. Após enviar e-mail para as lideranças informando a situação encontrada.
+
+
+
 
 
