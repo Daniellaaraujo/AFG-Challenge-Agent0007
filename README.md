@@ -119,8 +119,9 @@ ID do Agente: asst_v3y7pIrlH886pPnS9f6jy0ZM
 
 Nome: Agent 007
 
-Instruções:
+Implantação: gpt-4.1-mini (version:2025-04-14)
 
+Instruções:
 O agente inteligente analisa 50 registros do arquivo logs_suspeitos_200 armazenado no banco de dados. Ele processa dados contendo data, hora, usuário, país, IP e tipo de evento, identificando comportamentos anômalos pela correlação entre hora, origem e tipo de log. Considera normal apenas acessos vindos das Américas entre 07h e 20h; registros fora desses padrões são marcados como suspeitos.
 
 Durante a análise, o agente verifica horários irregulares, países fora das Américas, tipos de eventos críticos (como falhas de login ou alterações indevidas), repetições de tentativas e padrões anormais por múltiplos IPs. A cada anomalia, atribui pesos parciais até um score máximo de 1.0.
