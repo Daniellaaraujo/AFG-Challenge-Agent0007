@@ -156,13 +156,15 @@ Após a análise, consolida os resultados em uma tabela contendo: data, hora, us
 
 O arquivo `logs_suspeitos_200.py` foi carregado, contendo os dados de entrada para análise dos logs de usuários suspeitos. Este recurso serve como um repositório de vetores, permitindo a recuperação rápida de informações através do índice de pesquisa.
 
-**Ações Realizadas**
+**Azure Foundry -Ações **
 
 O arquivo `agent_logs_pipeline_50.py`, cujo código em python está na aba de Codespace do GitHub, foi carregado para permitir que o agente execute a análise, calcule o score de suspeita, classifique os riscos e execute as ações necessárias (MFA, alerta, bloqueio). O código também gera o relatório e envia e-mails para as lideranças.
 
 ---
 
 **Respostas no Playground Foundry**
+
+
 Foram inseridos os seguintes Prompts:
 
 1. Identificar comportamentos anômalos por meio da correlação entre hora, origem geográfica (país/IP) e tipo de evento, com base nos registros no arquivo `logs_suspeitos_200.py`.
