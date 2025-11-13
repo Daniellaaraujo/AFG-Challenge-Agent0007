@@ -158,7 +158,7 @@ Feito isso, na parte de Conhecimento do Foundry o arquivo logs_suspeitos_200.py 
 
 <img width="1204" height="726" alt="image" src="https://github.com/user-attachments/assets/2351b578-ffae-4920-a476-c0531f581e94" />
 
-Em seguida, na parte de Ações o arquivo agent_logs_pipeline_50.py foi carregado. Esse arquivo em python dispõe dos codigos necessários para o agente executar a análise, calcular score de suspeita (0–1), classifica riscos, executar ações (MFA, alerta, bloqueio) e gerar relatório para lideranças.
+Em seguida, na parte de Ações o arquivo agent_logs_pipeline_50.py foi carregado. Esse arquivo em python, cujo os códigos estão na aba do Codespace do Githhub, dispõe do necessários para o agente executar a análise, calcular score de suspeita (0–1), classifica riscos, executar ações (MFA, alerta, bloqueio) e gerar relatório para lideranças. 
 
 <img width="1216" height="722" alt="image" src="https://github.com/user-attachments/assets/d48bc536-08f4-4baa-a428-634291aef759" />
 
