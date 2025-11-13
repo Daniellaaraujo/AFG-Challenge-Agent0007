@@ -166,6 +166,7 @@ Realizadas todas as configurações, no Playground Foundry foram inseridos os se
 
 Identificar comportamentos anômalos por meio da correlação entre hora, origem geográfica (país/IP) e tipo de evento pelo arquivo logs_suspeitos_200.py para todos os registros da tabela.
 Com base nessa análise, o agente deve calcular um nível de suspeita (0–1) para cada registro, classificar o risco, e definir ações a serem tomadas conforme o nível detectado.
+
 Feito isso, consolidar as saídas esperadas, ou seja, uma tabela e um resumo executivo. Após enviar e-mail para as lideranças informando a situação encontrada.
 
 
