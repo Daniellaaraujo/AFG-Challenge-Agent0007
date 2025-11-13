@@ -113,6 +113,10 @@ O agente monta e envia automaticamente um e-mail corporativo às lideranças, co
 * Ações executadas (**bloqueios**, **MFA**, **alertas**).
 
 ---
+
+Fluxo:
+<img width="1011" height="1509" alt="image" src="https://github.com/user-attachments/assets/a5aed43b-8da9-4b44-9312-0ec84274f9dc" />
+
 Agente funcional no Foundry, configurações realizadas:
 
 ID do Agente: asst_v3y7pIrlH886pPnS9f6jy0ZM
@@ -147,8 +151,8 @@ Comportamento Esperado do Agente
 •	Usar linguagem técnica e objetiva nos relatórios e notificações.
 •	Priorizar segurança e precisão, minimizando falsos positivos.
 
-Fluxo:
-<img width="1011" height="1509" alt="image" src="https://github.com/user-attachments/assets/a5aed43b-8da9-4b44-9312-0ec84274f9dc" />
+<img width="1363" height="754" alt="image" src="https://github.com/user-attachments/assets/0f2c9b39-01c5-4397-b387-7a73b2200802" />
 
+Feito isso,
 
 
