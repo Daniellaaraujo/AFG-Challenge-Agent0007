@@ -18,7 +18,6 @@ Agente inteligente de análise de logs suspeitos criado na plataforma Azure Foun
    * **País** → Localização geográfica do acesso.
    * **IP** → Endereço IP de origem.
    * **Tipo de Log Suspeito** → Breve descrição do tipo de evento (ex.: falha de login, alteração de senha etc.).
-3. O agente valida se todos os campos estão completos e no formato correto (ex.: IP válido, data e hora reconhecíveis).
 
 ---
 
@@ -34,7 +33,7 @@ Agente inteligente de análise de logs suspeitos criado na plataforma Azure Foun
 
 ### 🔍 **Etapas de Análise e Correlação**
 
-O agente realiza uma análise contextual entre **hora**, **país/IP** e **tipo de evento**, seguindo seis etapas principais:
+O 007 realiza uma análise contextual entre **hora**, **país/IP** e **tipo de evento**, seguindo seis etapas principais:
 
 1. **Identificação temporal:**
    Detectar registros fora do horário normal (antes das 07h ou após as 20h).
@@ -63,7 +62,7 @@ O agente realiza uma análise contextual entre **hora**, **país/IP** e **tipo d
    | Repetição/múltiplos IPs | Possível automação ou força bruta                         | +0.10     |
    | **Score máximo**        | Valor total limitado a 1.0                                | —         |
 
-2. O agente soma as pontuações de cada critério, obtendo o **score final** de cada evento.
+2. O 007 soma as pontuações de cada critério, obtendo o **score final** de cada evento.
 
 ---
 
@@ -84,7 +83,7 @@ O agente realiza uma análise contextual entre **hora**, **país/IP** e **tipo d
 
 ###  **Ações Sugeridas**
 
-Após a classificação, o agente sugere:
+Após a classificação, sugere:
 
 * Bloqueios.
 * MFA (autenticação multifator).
