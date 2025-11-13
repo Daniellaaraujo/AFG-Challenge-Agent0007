@@ -147,7 +147,7 @@ Comportamento Esperado do Agente
 •	Priorizar segurança e precisão, minimizando falsos positivos.
 
 Fluxo:
-
+<img width="1011" height="1509" alt="image" src="https://github.com/user-attachments/assets/a5aed43b-8da9-4b44-9312-0ec84274f9dc" />
 
 
 
