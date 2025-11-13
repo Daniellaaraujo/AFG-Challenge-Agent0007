@@ -1,6 +1,6 @@
-# AFG-Challenge-Agent0007
-Agente inteligente de análise de logs suspeitos criado na plataforma Azure Foundry AI. Esse deve analisar os registros do banco de dados, relacionando hora, país/IP e tipo de evento. Calcula score de suspeita (0–1), classifica riscos, executa ações automáticas (MFA, alerta, bloqueio) gera relatório e um resumo para lideranças.
+# AFG-Challenge- Agent 007
 
+Este agente foi desenvolvido na plataforma Azure Foundry AI para realizar a análise de logs suspeitos armazenados no banco de dados. Ele correlaciona dados como hora, país/IP e tipo de evento para identificar padrões anômalos. O agente calcula uma pontuação de suspeita (variando de 0 a 1), classifica os riscos de acordo com essa pontuação e executa ações automáticas, como a aplicação de MFA, geração de alertas e bloqueios. Além disso, ele gera relatórios detalhados e resumos executivos para as lideranças, facilitando a tomada de decisões rápidas e informadas.
 ---
 
 ## Agente Inteligente de Análise de Logs Suspeitos — Passo a Passo Explicativo
