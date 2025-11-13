@@ -1,5 +1,5 @@
 # AFG-Challenge-Agent0007
-Agente inteligente de análise de logs suspeitos criado na plataforma Azure Foundry AI. Analisa 50 registros do banco, correlando hora, país/IP e tipo de evento. Calcula score de suspeita (0–1), classifica riscos, executa ações automáticas (MFA, alerta, bloqueio) e gera relatório para lideranças.
+Agente inteligente de análise de logs suspeitos criado na plataforma Azure Foundry AI. Analisar registros do banco, correlando hora, país/IP e tipo de evento. Calcula score de suspeita (0–1), classifica riscos, executa ações automáticas (MFA, alerta, bloqueio) e gera relatório para lideranças.
 
 ---
 
@@ -126,7 +126,7 @@ Nome: Agent 007
 Implantação: gpt-4.1-mini (version:2025-04-14)
 
 Instruções:
-O agente inteligente analisa 50 registros do arquivo logs_suspeitos_200 armazenado no banco de dados. Ele processa dados contendo data, hora, usuário, país, IP e tipo de evento, identificando comportamentos anômalos pela correlação entre hora, origem e tipo de log. Considera normal apenas acessos vindos das Américas entre 07h e 20h; registros fora desses padrões são marcados como suspeitos.
+O agente inteligente analisa registros do arquivo logs_suspeitos_200 armazenado no banco de dados. Ele processa dados contendo data, hora, usuário, país, IP e tipo de evento, identificando comportamentos anômalos pela correlação entre hora, origem e tipo de log. Considera normal apenas acessos vindos das Américas entre 07h e 20h; registros fora desses padrões são marcados como suspeitos.
 
 Durante a análise, o agente verifica horários irregulares, países fora das Américas, tipos de eventos críticos (como falhas de login ou alterações indevidas), repetições de tentativas e padrões anormais por múltiplos IPs. A cada anomalia, atribui pesos parciais até um score máximo de 1.0.
 
@@ -168,6 +168,32 @@ Identificar comportamentos anômalos por meio da correlação entre hora, origem
 Com base nessa análise, o agente deve calcular um nível de suspeita (0–1) para cada registro, classificar o risco, e definir ações a serem tomadas conforme o nível detectado.
 
 Feito isso, consolidar as saídas esperadas, ou seja, uma tabela e um resumo executivo. Após enviar e-mail para as lideranças informando a situação encontrada.
+
+Respostas do agente 007:
+
+Gerando resposta
+
+<img width="1338" height="715" alt="image" src="https://github.com/user-attachments/assets/2091403b-cd5d-430b-8fc8-cc29f37c30c6" />
+
+Primeira resposta:
+
+<img width="1330" height="667" alt="image" src="https://github.com/user-attachments/assets/88538ae7-0785-4e9a-a87b-1608254ddd3f" />
+
+Segunda resposta:
+
+<img width="1193" height="632" alt="image" src="https://github.com/user-attachments/assets/f4256a5b-c215-4077-86eb-8d3adeef8cb2" />
+
+Terceira resposta:
+
+<img width="1195" height="671" alt="image" src="https://github.com/user-attachments/assets/3e0522df-9b37-4dcf-99e6-eacd460b7cd1" />
+
+Quarta resposta:
+
+<img width="1226" height="691" alt="image" src="https://github.com/user-attachments/assets/acc2d6f0-123f-4964-bcab-afdcdb716384" />
+
+<img width="1219" height="642" alt="image" src="https://github.com/user-attachments/assets/d11393c9-6807-44ff-a709-de63ae49f2c8" />
+
+
 
 
 
