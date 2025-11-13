@@ -117,14 +117,15 @@ O agente monta e envia automaticamente um e-mail corporativo às lideranças, co
 Fluxo:
 <img width="1011" height="1509" alt="image" src="https://github.com/user-attachments/assets/a5aed43b-8da9-4b44-9312-0ec84274f9dc" />
 
-Aqui está uma versão aprimorada do seu texto, com a reformulação de algumas partes para torná-lo mais claro, conciso e bem estruturado:
 
 ---
 
 **Agente Funcional no Foundry – Configurações Realizadas**
 
 **ID do Agente**: asst_v3y7pIrlH886pPnS9f6jy0ZM
+
 **Nome**: Agent 007
+
 **Implantação**: gpt-4.1-mini (versão: 2025-04-14)
 
 **Instruções**:
@@ -153,14 +154,16 @@ Após a análise, o agente consolida os resultados em uma tabela contendo: data,
 ---
 
 **Azure Foundry - Conhecimento**
+
 O arquivo `logs_suspeitos_200.py` foi carregado, contendo os dados de entrada para análise dos logs de usuários suspeitos. Este recurso serve como um repositório de vetores, permitindo a recuperação rápida de informações através do índice de pesquisa.
 
 **Ações Realizadas**
+
 O arquivo `agent_logs_pipeline_50.py`, cujo código em python está na aba de Codespace do GitHub, foi carregado para permitir que o agente execute a análise, calcule o score de suspeita, classifique os riscos e execute as ações necessárias (MFA, alerta, bloqueio). O código também gera o relatório e envia e-mails para as lideranças.
 
 ---
 
-**Configurações no Playground Foundry**
+**Respostas no Playground Foundry**
 Foram inseridos os seguintes Prompts:
 
 1. Identificar comportamentos anômalos por meio da correlação entre hora, origem geográfica (país/IP) e tipo de evento, com base nos registros no arquivo `logs_suspeitos_200.py`.
@@ -170,6 +173,7 @@ Foram inseridos os seguintes Prompts:
 ---
 
 **Respostas do Agente 007**
+
 O agente gerou as seguintes respostas durante o processo:
 
 1. **Primeira resposta**: Iniciou as análises de log conforme solicitado.
