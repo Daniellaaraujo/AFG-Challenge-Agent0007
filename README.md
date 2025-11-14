@@ -159,17 +159,17 @@ O agente monta e envia automaticamente um e-mail corporativo às lideranças, co
 
 ---
 
-Fluxo:
+### **Fluxo:**
 <img width="1011" height="1509" alt="image" src="https://github.com/user-attachments/assets/a5aed43b-8da9-4b44-9312-0ec84274f9dc" />
 
 
 ---
 
-**Agente Funcional no Foundry – Configurações Realizadas**
+### **Agente Funcional no Foundry – Configurações Realizadas**
 
-**ID do Agente**: asst_v3y7pIrlH886pPnS9f6jy0ZM
+### **ID do Agente**: asst_v3y7pIrlH886pPnS9f6jy0ZM
 
-**Nome**: Agent 007
+### **Nome**: Agent 007
 
 **Implantação**: gpt-4.1-mini (versão: 2025-04-14)
 
