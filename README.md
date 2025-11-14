@@ -6,34 +6,35 @@ Este agente foi desenvolvido na plataforma Azure Foundry AI para realizar a aná
 
 ---
 
-### **Sumário**
+
+### **Escopo **
 
 – **AFG-Challenge - Agent 007**
 
 – **Agente 007 — Passo a Passo Explicativo**
 
-    – **Etapas de Análise e Correlação**
-    
-    * Identificação temporal
-    * Validação geográfica
-    * Correlação de tipo de log
-    * Correlação sequencial
-    * Análise comportamental
-    * Atribuição de pesos
-    
-    – **Cálculo do Nível de Suspeita (Score 0–1)**
-    
-    – **Interpretação e Ações Automáticas**
-    
-    * Faixas de risco
-    * Ações automáticas
-    
-    – **Ações Sugeridas**
-    
-    – **Saídas Esperadas**
-    
-    * Relatório Estruturado
-    * Resumo Executivo
+– **Etapas de Análise e Correlação**
+
+* Identificação temporal
+* Validação geográfica
+* Correlação de tipo de log
+* Correlação sequencial
+* Análise comportamental
+* Atribuição de pesos
+
+– **Cálculo do Nível de Suspeita (Score 0–1)**
+
+– **Interpretação e Ações Automáticas**
+
+* Faixas de risco
+* Ações automáticas
+
+– **Ações Sugeridas**
+
+– **Saídas Esperadas**
+
+* Relatório Estruturado
+* Resumo Executivo
 
 – **Agente Funcional no Foundry – Configurações Realizadas**
 
@@ -47,8 +48,8 @@ Este agente foi desenvolvido na plataforma Azure Foundry AI para realizar a aná
 
 – **Conclusão**
 
-
 ---
+
 ## Passo a Passo Explicativo
 
 ---
