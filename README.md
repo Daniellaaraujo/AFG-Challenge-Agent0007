@@ -160,7 +160,9 @@ O agente monta e envia automaticamente um e-mail corporativo às lideranças, co
 ---
 
 ### **Fluxo:**
-<img width="1011" height="1509" alt="image" src="https://github.com/user-attachments/assets/a5aed43b-8da9-4b44-9312-0ec84274f9dc" />
+
+<img width="604" height="901" alt="image" src="https://github.com/user-attachments/assets/c7029799-3303-462e-bc8b-9d443918d935" />
+
 
 
 ---
