@@ -171,14 +171,14 @@ O agente monta e envia automaticamente um e-mail corporativo às lideranças, co
 
 ### **Nome**: Agent 007
 
-**Implantação**: gpt-4.1-mini (versão: 2025-04-14)
+### **Implantação**: gpt-4.1-mini (versão: 2025-04-14)
 
-**Instruções**:
+### **Instruções**:
 O agente 007 foi configurado para analisar registros armazenados no arquivo `logs_suspeitos_200` presente no banco de dados. Ele processa dados como data, hora, usuário, país, IP e tipo de evento, identificando comportamentos anômalos através da correlação entre hora, origem e tipo de log. Considera como normal apenas acessos realizados dentro do horário entre 07h e 20h de países das Américas. Registros fora desses padrões são automaticamente marcados como suspeitos.
 
 Durante a análise, verifica os seguintes fatores: horários irregulares, países fora das Américas, eventos críticos (como falhas de login ou alterações não autorizadas), tentativas repetidas e padrões anormais de múltiplos IPs. A cada anomalia identificada, um peso parcial é atribuído ao registro, resultando em um score final que varia de 0 a 1.
 
-**Classificação de Riscos**:
+### **Classificação de Riscos**:
 O agente classifica os registros conforme o score calculado, adotando as seguintes faixas de risco:
 
 * **0.00–0.30**: Normal, sem ação
@@ -188,7 +188,7 @@ O agente classifica os registros conforme o score calculado, adotando as seguint
 
 Após a análise, consolida os resultados em uma tabela contendo: data, hora, usuário, origem, tipo de evento, score e ação tomada. Em seguida, gera um relatório estruturado em PDF e envia um resumo executivo por e-mail às lideranças, destacando o número total de eventos suspeitos, aqueles de alta suspeita, os países de origem, os horários críticos e as ações executadas.
 
-**Comportamento Esperado do Agente 007**:
+### **Comportamento Esperado do Agente 007**:
 
 * Análise imparcial e estruturada em todas as respostas.
 * Explicação clara do raciocínio por trás de cada score calculado.
@@ -198,7 +198,7 @@ Após a análise, consolida os resultados em uma tabela contendo: data, hora, us
 
 ---
 
-**Azure Foundry - Conhecimento**
+### **Azure Foundry - Conhecimento**
 
 O arquivo `logs_suspeitos_200.py` foi carregado, contendo os dados de entrada para análise dos logs de usuários suspeitos. Este recurso serve como um repositório de vetores, permitindo a recuperação rápida de informações através do índice de pesquisa.
 
@@ -208,7 +208,7 @@ O arquivo `agent_logs_pipeline_50.py`, cujo código em python está na aba de Co
 
 ---
 
-**Respostas no Playground Foundry**
+### **Respostas no Playground Foundry**
 
 
 Foram inseridos os seguintes Prompts:
@@ -219,7 +219,7 @@ Foram inseridos os seguintes Prompts:
 
 ---
 
-**Respostas do Agente 007**
+### **Respostas do Agente 007**
 
 O agente gerou as seguintes respostas durante o processo:
 
@@ -240,7 +240,7 @@ Após solicitações de ajustes no formato, o relatório foi gerado, incluindo c
 
 ---
 
-**Conclusão**
+### **Conclusão**
 Com a configuração do agente, as análises de comportamento suspeito foram realizadas, com relatórios detalhados e ações automatizadas para mitigar riscos de segurança. O resumo executivo e o relatório completo foram compartilhados com as lideranças, garantindo maior controle e tomada de decisão rápida.
 
 ---
