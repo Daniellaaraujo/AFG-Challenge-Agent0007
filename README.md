@@ -7,7 +7,7 @@ Este agente foi desenvolvido na plataforma Azure Foundry AI para realizar a aná
 ---
 
 
-### Índice de Tópicos Abordados **
+### **Índice de Tópicos Abordados **
 
 – **AFG-Challenge - Agent 007**
 
