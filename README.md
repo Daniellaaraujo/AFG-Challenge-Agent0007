@@ -9,17 +9,29 @@ Este agente foi desenvolvido na plataforma Azure Foundry AI para realizar a aná
 ### **Sumário**
 
  **AFG-Challenge - Agent 007**
+ 
 **Passo a Passo Explicativo**
+
   **Etapas de Análise e Correlação**
+  
   **Cálculo do Nível de Suspeita (Score 0–1)**
+  
   **Interpretação e Ações Automáticas**
+  
   **Ações Sugeridas**
+  
   **Saídas Esperadas**
+  
  **Agente Funcional no Foundry – Configurações Realizadas**
+ 
    **Comportamento Esperado do Agente 007**
+   
    **Azure Foundry - Conhecimento**
+   
    **Azure Foundry - Ações**
+   
    **Respostas no Playground Foundry**
+   
  **Conclusão**
 
 ---
