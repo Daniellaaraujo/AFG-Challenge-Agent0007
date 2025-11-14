@@ -1,4 +1,4 @@
-# AFG-Challenge- Agent 007
+# AFG-Challenge-Agent 007
 Agente Inteligente de Análise de Logs Suspeitos
 ---
 
@@ -9,7 +9,7 @@ Este agente foi desenvolvido na plataforma Azure Foundry AI para realizar a aná
 ### **Sumário**
 
 1. **AFG-Challenge - Agent 007**
-2. **Agente 007 — Passo a Passo Explicativo**
+2. **Passo a Passo Explicativo**
 3. **Etapas de Análise e Correlação**
 4. **Cálculo do Nível de Suspeita (Score 0–1)**
 5. **Interpretação e Ações Automáticas**
@@ -23,7 +23,7 @@ Este agente foi desenvolvido na plataforma Azure Foundry AI para realizar a aná
 13. **Conclusão**
 
 ---
-## Agente007 — Passo a Passo Explicativo
+## Passo a Passo Explicativo
 
 ---
 
