@@ -8,19 +8,19 @@ Este agente foi desenvolvido na plataforma Azure Foundry AI para realizar a aná
 
 ### **Sumário**
 
-1. **AFG-Challenge - Agent 007**
-2. **Passo a Passo Explicativo**
-3. **Etapas de Análise e Correlação**
-4. **Cálculo do Nível de Suspeita (Score 0–1)**
-5. **Interpretação e Ações Automáticas**
-6. **Ações Sugeridas**
-7. **Saídas Esperadas**
-8. **Agente Funcional no Foundry – Configurações Realizadas**
-9. **Comportamento Esperado do Agente 007**
-10. **Azure Foundry - Conhecimento**
-11. **Azure Foundry - Ações**
-12. **Respostas no Playground Foundry**
-13. **Conclusão**
+ **AFG-Challenge - Agent 007**
+**Passo a Passo Explicativo**
+  **Etapas de Análise e Correlação**
+  **Cálculo do Nível de Suspeita (Score 0–1)**
+  **Interpretação e Ações Automáticas**
+  **Ações Sugeridas**
+  **Saídas Esperadas**
+ **Agente Funcional no Foundry – Configurações Realizadas**
+   **Comportamento Esperado do Agente 007**
+   **Azure Foundry - Conhecimento**
+   **Azure Foundry - Ações**
+   **Respostas no Playground Foundry**
+ **Conclusão**
 
 ---
 ## Passo a Passo Explicativo
