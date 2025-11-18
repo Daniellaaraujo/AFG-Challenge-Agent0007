@@ -26,7 +26,7 @@ Este agente foi desenvolvido na plataforma Azure Foundry AI para realizar a aná
 
 – **Interpretação e Ações Automáticas**
 
-* Faixas de risco
+* Classificação de risco
 * Ações automáticas
 
 – **Ações Sugeridas**
