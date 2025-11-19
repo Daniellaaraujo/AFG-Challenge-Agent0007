@@ -285,14 +285,9 @@ O agente gerou as seguintes respostas durante o processo:
           Equipe de Segurança da Informação
            
 
- <img width="1088" height="615" alt="image" src="https://github.com/user-attachments/assets/50196a9b-4440-4487-8939-b6880debb9db" />
-
- <img width="1087" height="592" alt="image" src="https://github.com/user-attachments/assets/514f7a33-56ce-429a-bdd7-78b7be4a9396" />
-
-<img width="1060" height="542" alt="image" src="https://github.com/user-attachments/assets/ab19b462-31ea-421c-85c9-4cfd41927a75" />
-
 
 4. **Quarta resposta**: Disponibilizou o arquivos para download PDF.
+   
    
 <img width="1076" height="585" alt="image" src="https://github.com/user-attachments/assets/4138df19-5911-4cc2-b565-244940802430" />
 
@@ -301,7 +296,9 @@ O agente gerou as seguintes respostas durante o processo:
 <img width="1079" height="660" alt="image" src="https://github.com/user-attachments/assets/59860e9b-5ed3-4e1f-a2ff-e86b12393bb4" />
 
 
+
 Após solicitações de ajustes no formato, o relatório foi gerado, incluindo cada log de usuário com seu respectivo score, nível de suspeita e ação recomendada, além de um resumo da análise. O PDF final foi anexado ao Read.me.
+
 ![Relatório gerado](https://github.com/user-attachments/assets/16045c05-e655-4665-b7c7-5eb85cda6237)
 
 <img width="1178" height="636" alt="image" src="https://github.com/user-attachments/assets/f0277256-d024-486e-816b-3731c4b29059" />
