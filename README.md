@@ -256,9 +256,9 @@ O agente gerou as seguintes respostas durante o processo:
 
 <img width="1076" height="658" alt="image" src="https://github.com/user-attachments/assets/a0cc3692-41e6-4dbe-b854-72df38af2675" />
 
+  A seguir, o escopo do e-mail que foi gerado, na íntegra:
 
-   Assunto: Relatório de Análise de Logs Suspeitos - Situação Atual e Ações Executadas
-
+          Assunto: Relatório de Análise de Logs Suspeitos - Situação Atual e Ações Executadas
           Para: verdeazulemerald@gmail.com
           Cc: [Adicionar outros e-mails relevantes, se necessário]
            
@@ -292,9 +292,6 @@ O agente gerou as seguintes respostas durante o processo:
 <img width="1072" height="592" alt="image" src="https://github.com/user-attachments/assets/31c5fbcb-3756-4dc8-b8c2-68eca8a33b9d" />
 
 <img width="1079" height="660" alt="image" src="https://github.com/user-attachments/assets/59860e9b-5ed3-4e1f-a2ff-e86b12393bb4" />
-
-
-![Relatório gerado](https://github.com/user-attachments/assets/16045c05-e655-4665-b7c7-5eb85cda6237)
 
 <img width="1178" height="636" alt="image" src="https://github.com/user-attachments/assets/f0277256-d024-486e-816b-3731c4b29059" />
 
