@@ -316,7 +316,7 @@ São telas demonstrando a automatização da comunicação com o time de lideran
 
    * Criação do relatório detalhado em PDF, contendo cada log analisado.
    * Ajustes de layout solicitados (fonte, espaçamento, organização e estrutura da tabela).
-   * A versão final do PDF disponibilizada para download e anexada ao Read.me.
+   * A versão final do PDF disponibilizada para download e anexada ao Read.me, o arquivofoi nomeado como OUTPUT_relatorio_logs_suspeitos_formatado.pdf.
 
 Essas imagens ilustram a entrega concluída do relatório contendo todos os eventos com seus respectivos scores, níveis de suspeita e ações recomendadas.
    
