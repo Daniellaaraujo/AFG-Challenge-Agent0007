@@ -233,15 +233,34 @@ Foram inseridos os seguintes Prompts:
 
 O agente gerou as seguintes respostas durante o processo:
 
-1. **Primeira resposta**: Iniciou as análises de log conforme solicitado.
+1. **Primeira resposta**: As imagens desta etapa representam a tela inicial do Agente 007, logo após ser acionado.
+Elas exibem:
+
+  A confirmação de que o processo de análise dos logs foi iniciado.
+  
+  Indicadoresmostrando que o agente está lendo os registros do banco de dados.
+  
+  Mensagens do sistema sinalizando que os dados estão sendo processados para identificação de padrões anômalos.
+
+Essa etapa demonstra que o agente iniciou corretamente a tarefa solicitada.
 
 <img width="1095" height="632" alt="image" src="https://github.com/user-attachments/assets/ba788579-4779-475c-86a8-5fcdcd6489e9" />
 <img width="1065" height="579" alt="image" src="https://github.com/user-attachments/assets/27ad5b1f-e5c8-4720-a47a-cf453641bb44" />
 <img width="1091" height="588" alt="image" src="https://github.com/user-attachments/assets/6b9c6e2d-bf3c-4633-8c3b-ae97f499864b" />
 
 
-2. **Segunda resposta**: Gerou um Resumo Executivo com as análises, detalhando o número total de eventos, os eventos suspeitos e de alta suspeita, países de origem, horários críticos e ações sugeridas, como bloqueio ou exigência de MFA.
+2. **Segunda resposta**: As imagens desta fase mostram a interface do agente apresentando o Resumo Executivo.
+Nelas é possível visualizar:
 
+  Um painel com o total de eventos analisados e quantos foram classificados como suspeitos ou altamente suspeitos.
+  
+  A lista dos países de origem das tentativas suspeitas (ex.: Canadá, China, Alemanha etc.).
+  
+  Indicadores de horários críticos em que houve maior incidência de eventos.
+  
+  A distribuição das ações realizadas pelo agente (exigir MFA, bloquear e notificar liderança, ou nenhuma ação).
+
+Essas imagens ajudam a entender rapidamente o panorama da investigação feita pelo agente.
 
 <img width="1114" height="630" alt="image" src="https://github.com/user-attachments/assets/7f3378d7-ccc0-4ea9-8b47-f3ad7fc7ecdb" />
 
@@ -249,7 +268,15 @@ O agente gerou as seguintes respostas durante o processo:
 
 <img width="1052" height="564" alt="image" src="https://github.com/user-attachments/assets/f5d5d963-a2dd-46f8-9c41-907593de0222" />
 
-3. **Terceira resposta**: Preparou o escopo do e-mail para envio às lideranças.
+3. **Terceira resposta**: As imagens desta etapa mostram:
+
+  A prévia do e-mail institucional preparado pelo Agente 007 para ser enviado às lideranças.
+  
+  O texto formatado com assunto, destinatários, resumo executivo e descrição das ações tomadas.
+  
+  A estrutura profissional do e-mail, com linguagem formal e orientada à gestão.
+
+São telas demonstrando a automatização da comunicação com o time de liderança.
 
 
 <img width="1046" height="582" alt="image" src="https://github.com/user-attachments/assets/11d0ef82-fbef-4498-a95f-ed562ab40f47" />
@@ -286,7 +313,15 @@ O agente gerou as seguintes respostas durante o processo:
            
 
 
-4. **Quarta resposta**: Disponibilizou o arquivos para download PDF. Após solicitações de ajustes no formato, o relatório foi gerado, incluindo cada log de usuário com seu respectivo score, nível de suspeita e ação recomendada, além de um resumo da análise. O PDF final foi anexado ao Read.me.
+4. **Quarta resposta**: As imagens finais exibem o processo de:
+
+  Criação do relatório detalhado em PDF, contendo cada log analisado.
+  
+  Ajustes de layout solicitados (fonte, espaçamento, organização e estrutura da tabela).
+  
+  A versão final do PDF disponibilizada para download e anexada ao Read.me.
+
+Essas imagens ilustram a entrega concluída do relatório contendo todos os eventos com seus respectivos scores, níveis de suspeita e ações recomendadas.
    
    
 <img width="1072" height="592" alt="image" src="https://github.com/user-attachments/assets/31c5fbcb-3756-4dc8-b8c2-68eca8a33b9d" />
