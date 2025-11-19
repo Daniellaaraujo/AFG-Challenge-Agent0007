@@ -218,7 +218,7 @@ O arquivo `agent_logs_pipeline_50.py`, cujo código em python está na aba de Co
 
 ---
 
-### **Respostas no Playground Foundry**
+### **Respostas do Agent 007 no Playground Foundry**
 
 
 Foram inseridos os seguintes Prompts:
@@ -229,17 +229,14 @@ Foram inseridos os seguintes Prompts:
 
 ---
 
-### **Respostas do Agente 007**
-
 O agente gerou as seguintes respostas durante o processo:
 
-1. **Primeira resposta**: As imagens desta etapa representam a tela inicial do Agente 007, logo após ser acionado.
+1. **Primeira resposta**
+    As imagens desta etapa representam a tela inicial do Agente 007, logo após ser acionado.
 Elas exibem:
 
   * A confirmação de que o processo de análise dos logs foi iniciado.
-  
   * Indicadoresmostrando que o agente está lendo os registros do banco de dados.
-  
   * Mensagens do sistema sinalizando que os dados estão sendo processados para identificação de padrões anômalos.
 
 Essa etapa demonstra que o agente iniciou corretamente a tarefa solicitada.
@@ -249,16 +246,13 @@ Essa etapa demonstra que o agente iniciou corretamente a tarefa solicitada.
 <img width="1091" height="588" alt="image" src="https://github.com/user-attachments/assets/6b9c6e2d-bf3c-4633-8c3b-ae97f499864b" />
 
 
-2. **Segunda resposta**: As imagens desta fase mostram a interface do agente apresentando o Resumo Executivo.
-Nelas é possível visualizar:
+2. **Segunda resposta**
+    As imagens desta fase mostram a interface do agente apresentando o Resumo Executivo. Assim, é possível visualizar:
 
-  Um painel com o total de eventos analisados e quantos foram classificados como suspeitos ou altamente suspeitos.
-  
-  A lista dos países de origem das tentativas suspeitas (ex.: Canadá, China, Alemanha etc.).
-  
-  Indicadores de horários críticos em que houve maior incidência de eventos.
-  
-  A distribuição das ações realizadas pelo agente (exigir MFA, bloquear e notificar liderança, ou nenhuma ação).
+   * Um painel com o total de eventos analisados e quantos foram classificados como suspeitos ou altamente suspeitos.
+   * A lista dos países de origem das tentativas suspeitas (ex.: Canadá, China, Alemanha etc.).
+   * Indicadores de horários críticos em que houve maior incidência de eventos.
+   * A distribuição das ações realizadas pelo agente (exigir MFA, bloquear e notificar liderança, ou nenhuma ação).
 
 Essas imagens ajudam a entender rapidamente o panorama da investigação feita pelo agente.
 
@@ -268,13 +262,12 @@ Essas imagens ajudam a entender rapidamente o panorama da investigação feita p
 
 <img width="1052" height="564" alt="image" src="https://github.com/user-attachments/assets/f5d5d963-a2dd-46f8-9c41-907593de0222" />
 
-3. **Terceira resposta**: As imagens desta etapa mostram:
+3. **Terceira resposta**
+ As imagens desta etapa mostram:
 
-  A prévia do e-mail institucional preparado pelo Agente 007 para ser enviado às lideranças.
-  
-  O texto formatado com assunto, destinatários, resumo executivo e descrição das ações tomadas.
-  
-  A estrutura profissional do e-mail, com linguagem formal e orientada à gestão.
+   * A prévia do e-mail institucional preparado pelo Agente 007 para ser enviado às lideranças.
+   * O texto formatado com assunto, destinatários, resumo executivo e descrição das ações tomadas.
+   * A estrutura profissional do e-mail, com linguagem formal e orientada à gestão.
 
 São telas demonstrando a automatização da comunicação com o time de liderança.
 
@@ -313,13 +306,12 @@ São telas demonstrando a automatização da comunicação com o time de lideran
            
 
 
-4. **Quarta resposta**: As imagens finais exibem o processo de:
+4. **Quarta resposta**
+ As imagens finais exibem o processo de:
 
-  Criação do relatório detalhado em PDF, contendo cada log analisado.
-  
-  Ajustes de layout solicitados (fonte, espaçamento, organização e estrutura da tabela).
-  
-  A versão final do PDF disponibilizada para download e anexada ao Read.me.
+   * Criação do relatório detalhado em PDF, contendo cada log analisado.
+   * Ajustes de layout solicitados (fonte, espaçamento, organização e estrutura da tabela).
+   * A versão final do PDF disponibilizada para download e anexada ao Read.me.
 
 Essas imagens ilustram a entrega concluída do relatório contendo todos os eventos com seus respectivos scores, níveis de suspeita e ações recomendadas.
    
