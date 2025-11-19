@@ -175,7 +175,8 @@ O agente monta e envia automaticamente um e-mail corporativo às lideranças, co
 
 ### **Implantação**: gpt-4.1-mini (versão: 2025-04-14)
 Imagem-001
-<img width="1288" height="615" alt="image" src="https://github.com/user-attachments/assets/b2eb065a-8a83-4d65-99fc-caa99893d553" />
+<img width="1288" height="615" alt="image" src="https://github.com/user-attachments/assets/b2eb065a-8a83-4d65-99fc-caa99893d553" /> Imagem-001
+Imagem-001
 
 ### **Instruções**:
 O agente 007 foi configurado para analisar registros armazenados no arquivo `logs_suspeitos_200` presente no banco de dados. Ele processa dados como data, hora, usuário, país, IP e tipo de evento, identificando comportamentos anômalos através da correlação entre hora, origem e tipo de log. Considera como normal apenas acessos realizados dentro do horário entre 07h e 20h de países das Américas. Registros fora desses padrões são automaticamente marcados como suspeitos.
@@ -208,7 +209,7 @@ O arquivo `logs_suspeitos_200.py` foi carregado, contendo os dados de entrada pa
 
 Imagem-002
 <img width="2292" height="670" alt="image" src="https://github.com/user-attachments/assets/4934b568-7b9c-443d-8867-25e82fa3568f" />
-
+Imagem-002
 
 ** Azure Foundry -Ações **
 
