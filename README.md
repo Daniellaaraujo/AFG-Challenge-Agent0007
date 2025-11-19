@@ -175,6 +175,8 @@ O agente monta e envia automaticamente um e-mail corporativo às lideranças, co
 
 ### **Implantação**: gpt-4.1-mini (versão: 2025-04-14)
 
+<img width="1288" height="615" alt="image" src="https://github.com/user-attachments/assets/b2eb065a-8a83-4d65-99fc-caa99893d553" />
+
 ### **Instruções**:
 O agente 007 foi configurado para analisar registros armazenados no arquivo `logs_suspeitos_200` presente no banco de dados. Ele processa dados como data, hora, usuário, país, IP e tipo de evento, identificando comportamentos anômalos através da correlação entre hora, origem e tipo de log. Considera como normal apenas acessos realizados dentro do horário entre 07h e 20h de países das Américas. Registros fora desses padrões são automaticamente marcados como suspeitos.
 
@@ -204,9 +206,14 @@ Após a análise, consolida os resultados em uma tabela contendo: data, hora, us
 
 O arquivo `logs_suspeitos_200.py` foi carregado, contendo os dados de entrada para análise dos logs de usuários suspeitos. Este recurso serve como um repositório de vetores, permitindo a recuperação rápida de informações através do índice de pesquisa.
 
+<img width="1292" height="670" alt="image" src="https://github.com/user-attachments/assets/4934b568-7b9c-443d-8867-25e82fa3568f" />
+
+
 ** Azure Foundry -Ações **
 
 O arquivo `agent_logs_pipeline_50.py`, cujo código em python está na aba de Codespace do GitHub, foi carregado para permitir que o agente execute a análise, calcule o score de suspeita, classifique os riscos e execute as ações necessárias (MFA, alerta, bloqueio). O código também gera o relatório e envia e-mails para as lideranças.
+
+![Uploading image.png…]()
 
 ---
 
