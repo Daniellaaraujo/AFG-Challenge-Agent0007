@@ -236,11 +236,11 @@ O agente gerou as seguintes respostas durante o processo:
 1. **Primeira resposta**: As imagens desta etapa representam a tela inicial do Agente 007, logo após ser acionado.
 Elas exibem:
 
-  *A confirmação de que o processo de análise dos logs foi iniciado.
+  * A confirmação de que o processo de análise dos logs foi iniciado.
   
-  *Indicadoresmostrando que o agente está lendo os registros do banco de dados.
+  * Indicadoresmostrando que o agente está lendo os registros do banco de dados.
   
-  *Mensagens do sistema sinalizando que os dados estão sendo processados para identificação de padrões anômalos.
+  * Mensagens do sistema sinalizando que os dados estão sendo processados para identificação de padrões anômalos.
 
 Essa etapa demonstra que o agente iniciou corretamente a tarefa solicitada.
 
