@@ -242,15 +242,6 @@ O agente gerou as seguintes respostas durante o processo:
 
 2. **Segunda resposta**: Gerou um Resumo Executivo com as análises, detalhando o número total de eventos, os eventos suspeitos e de alta suspeita, países de origem, horários críticos e ações sugeridas, como bloqueio ou exigência de MFA.
 
-<img width="1100" height="645" alt="image" src="https://github.com/user-attachments/assets/40115a45-41b6-4dca-ae5d-703040de2d78" />
-
-<img width="1013" height="590" alt="image" src="https://github.com/user-attachments/assets/49c0aa21-784e-42cb-9863-838c720775ae" />
-
-<img width="1065" height="571" alt="image" src="https://github.com/user-attachments/assets/0634e73f-b84f-4357-a89b-ab288684a920" />
-
-<img width="1177" height="662" alt="image" src="https://github.com/user-attachments/assets/e6482ec4-ba59-410f-8670-3208fb2db12b" />
-
-<img width="1086" height="625" alt="image" src="https://github.com/user-attachments/assets/f8a3602e-2642-4c99-b7b5-208a3136c403" />
 
 <img width="1114" height="630" alt="image" src="https://github.com/user-attachments/assets/7f3378d7-ccc0-4ea9-8b47-f3ad7fc7ecdb" />
 
