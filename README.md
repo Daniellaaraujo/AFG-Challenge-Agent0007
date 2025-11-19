@@ -174,9 +174,9 @@ O agente monta e envia automaticamente um e-mail corporativo às lideranças, co
 ### **Nome**: Agent 007
 
 ### **Implantação**: gpt-4.1-mini (versão: 2025-04-14)
-Imagem-001
+
 <img width="1288" height="615" alt="image" src="https://github.com/user-attachments/assets/b2eb065a-8a83-4d65-99fc-caa99893d553" /> Imagem-001
-Imagem-001
+
 
 ### **Instruções**:
 O agente 007 foi configurado para analisar registros armazenados no arquivo `logs_suspeitos_200` presente no banco de dados. Ele processa dados como data, hora, usuário, país, IP e tipo de evento, identificando comportamentos anômalos através da correlação entre hora, origem e tipo de log. Considera como normal apenas acessos realizados dentro do horário entre 07h e 20h de países das Américas. Registros fora desses padrões são automaticamente marcados como suspeitos.
@@ -207,16 +207,15 @@ Após a análise, consolida os resultados em uma tabela contendo: data, hora, us
 
 O arquivo `logs_suspeitos_200.py` foi carregado, contendo os dados de entrada para análise dos logs de usuários suspeitos. Este recurso serve como um repositório de vetores, permitindo a recuperação rápida de informações através do índice de pesquisa.
 
-Imagem-002
-<img width="2292" height="670" alt="image" src="https://github.com/user-attachments/assets/4934b568-7b9c-443d-8867-25e82fa3568f" />
-Imagem-002
 
+<img width="2292" height="670" alt="image" src="https://github.com/user-attachments/assets/4934b568-7b9c-443d-8867-25e82fa3568f" /> Imagem-002
+ 
 ** Azure Foundry -Ações **
 
 O arquivo `agent_logs_pipeline_50.py`, cujo código em python está na aba de Codespace do GitHub, foi carregado para permitir que o agente execute a análise, calcule o score de suspeita, classifique os riscos e execute as ações necessárias (MFA, alerta, bloqueio). O código também gera o relatório e envia e-mails para as lideranças.
 
-Imagem-003
-<img width="2251" height="678" alt="image" src="https://github.com/user-attachments/assets/15b480f8-6481-44f5-9205-03db75aca755" />
+
+<img width="2251" height="678" alt="image" src="https://github.com/user-attachments/assets/15b480f8-6481-44f5-9205-03db75aca755" /> Imagem-003
 
 
 ---
@@ -245,9 +244,9 @@ Elas exibem:
 
 Essa etapa demonstra que o agente iniciou corretamente a tarefa solicitada.
 
-<img width="1095" height="632" alt="image" src="https://github.com/user-attachments/assets/ba788579-4779-475c-86a8-5fcdcd6489e9" />
-<img width="1065" height="579" alt="image" src="https://github.com/user-attachments/assets/27ad5b1f-e5c8-4720-a47a-cf453641bb44" />
-<img width="1091" height="588" alt="image" src="https://github.com/user-attachments/assets/6b9c6e2d-bf3c-4633-8c3b-ae97f499864b" />
+<img width="1095" height="632" alt="image" src="https://github.com/user-attachments/assets/ba788579-4779-475c-86a8-5fcdcd6489e9" /> Imagem-004
+<img width="1065" height="579" alt="image" src="https://github.com/user-attachments/assets/27ad5b1f-e5c8-4720-a47a-cf453641bb44" /> Imagem-005
+<img width="1091" height="588" alt="image" src="https://github.com/user-attachments/assets/6b9c6e2d-bf3c-4633-8c3b-ae97f499864b" /> Imagem-006
 
 
 2. **Segunda resposta**
@@ -261,11 +260,11 @@ Essa etapa demonstra que o agente iniciou corretamente a tarefa solicitada.
 
 Essas imagens ajudam a entender rapidamente o panorama da investigação feita pelo agente.
 
-<img width="1114" height="630" alt="image" src="https://github.com/user-attachments/assets/7f3378d7-ccc0-4ea9-8b47-f3ad7fc7ecdb" />
+<img width="1114" height="630" alt="image" src="https://github.com/user-attachments/assets/7f3378d7-ccc0-4ea9-8b47-f3ad7fc7ecdb" /> Imagem-007
 
-<img width="1036" height="578" alt="image" src="https://github.com/user-attachments/assets/0bf8f244-0747-4441-ad22-76250e7fcab2" />
+<img width="1036" height="578" alt="image" src="https://github.com/user-attachments/assets/0bf8f244-0747-4441-ad22-76250e7fcab2" /> Imagem-008
 
-<img width="1052" height="564" alt="image" src="https://github.com/user-attachments/assets/f5d5d963-a2dd-46f8-9c41-907593de0222" />
+<img width="1052" height="564" alt="image" src="https://github.com/user-attachments/assets/f5d5d963-a2dd-46f8-9c41-907593de0222" /> Imagem-009
 
 3. **Terceira resposta**
    
@@ -278,9 +277,9 @@ Essas imagens ajudam a entender rapidamente o panorama da investigação feita p
 São telas demonstrando a automatização da comunicação com o time de liderança.
 
 
-<img width="1046" height="582" alt="image" src="https://github.com/user-attachments/assets/11d0ef82-fbef-4498-a95f-ed562ab40f47" />
+<img width="1046" height="582" alt="image" src="https://github.com/user-attachments/assets/11d0ef82-fbef-4498-a95f-ed562ab40f47" /> Imagem-010
 
-<img width="1076" height="658" alt="image" src="https://github.com/user-attachments/assets/a0cc3692-41e6-4dbe-b854-72df38af2675" />
+<img width="1076" height="658" alt="image" src="https://github.com/user-attachments/assets/a0cc3692-41e6-4dbe-b854-72df38af2675" /> Imagem-011
 
   A seguir, o escopo do e-mail que foi gerado, na íntegra:
 
@@ -323,11 +322,11 @@ São telas demonstrando a automatização da comunicação com o time de lideran
 Essas imagens ilustram a entrega concluída do relatório contendo todos os eventos com seus respectivos scores, níveis de suspeita e ações recomendadas.
    
    
-<img width="1072" height="592" alt="image" src="https://github.com/user-attachments/assets/31c5fbcb-3756-4dc8-b8c2-68eca8a33b9d" />
+<img width="1072" height="592" alt="image" src="https://github.com/user-attachments/assets/31c5fbcb-3756-4dc8-b8c2-68eca8a33b9d" /> Imagem-012
 
-<img width="1079" height="660" alt="image" src="https://github.com/user-attachments/assets/59860e9b-5ed3-4e1f-a2ff-e86b12393bb4" />
+<img width="1079" height="660" alt="image" src="https://github.com/user-attachments/assets/59860e9b-5ed3-4e1f-a2ff-e86b12393bb4" /> Imagem-013
 
-<img width="1178" height="636" alt="image" src="https://github.com/user-attachments/assets/f0277256-d024-486e-816b-3731c4b29059" />
+<img width="1178" height="636" alt="image" src="https://github.com/user-attachments/assets/f0277256-d024-486e-816b-3731c4b29059" /> Imagem-014
 
 ---
 
