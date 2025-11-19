@@ -209,7 +209,7 @@ O arquivo `logs_suspeitos_200.py` foi carregado, contendo os dados de entrada pa
 
 <img width="2292" height="670" alt="image" src="https://github.com/user-attachments/assets/4934b568-7b9c-443d-8867-25e82fa3568f" /> Imagem-002
  
-** Azure Foundry -Ações **
+### ** Azure Foundry -Ações **
 
 O arquivo `agent_logs_pipeline_50.py`, cujo código em python está na aba de Codespace do GitHub, foi carregado para permitir que o agente execute a análise, calcule o score de suspeita, classifique os riscos e execute as ações necessárias (MFA, alerta, bloqueio). O código também gera o relatório e envia e-mails para as lideranças.
 
@@ -234,11 +234,11 @@ O agente gerou as seguintes respostas durante o processo:
 
 1. **Primeira resposta**
    
-    As imagens desta etapa representam a tela inicial do Agente 007, logo após ser acionado.
+    As imagens 4, 5 e 6 desta etapa representam a tela inicial do Agente 007 logo após ser acionado.
 Elas exibem:
 
   * A confirmação de que o processo de análise dos logs foi iniciado.
-  * Indicadoresmostrando que o agente está lendo os registros do banco de dados.
+  * Indicadores mostrando que o agente está lendo os registros do banco de dados.
   * Mensagens do sistema sinalizando que os dados estão sendo processados para identificação de padrões anômalos.
 
 Essa etapa demonstra que o agente iniciou corretamente a tarefa solicitada.
@@ -250,14 +250,14 @@ Essa etapa demonstra que o agente iniciou corretamente a tarefa solicitada.
 
 2. **Segunda resposta**
    
-    As imagens desta fase mostram a interface do agente apresentando o Resumo Executivo. Assim, é possível visualizar:
+    As imagens 7, 8 e 9 mostram a interface do agente apresentando o Resumo Executivo. Assim, é possível visualizar:
 
    * Um painel com o total de eventos analisados e quantos foram classificados como suspeitos ou altamente suspeitos.
    * A lista dos países de origem das tentativas suspeitas (ex.: Canadá, China, Alemanha etc.).
    * Indicadores de horários críticos em que houve maior incidência de eventos.
    * A distribuição das ações realizadas pelo agente (exigir MFA, bloquear e notificar liderança, ou nenhuma ação).
 
-Essas imagens ajudam a entender rapidamente o panorama da investigação feita pelo agente.
+Elas ajudam a entender rapidamente o panorama da investigação feita pelo agente.
 
 <img width="1114" height="630" alt="image" src="https://github.com/user-attachments/assets/7f3378d7-ccc0-4ea9-8b47-f3ad7fc7ecdb" /> Imagem-007
 
@@ -267,7 +267,7 @@ Essas imagens ajudam a entender rapidamente o panorama da investigação feita p
 
 3. **Terceira resposta**
    
- As imagens desta etapa mostram:
+ As imagens 10 e 11 mostram:
 
    * A prévia do e-mail institucional preparado pelo Agente 007 para ser enviado às lideranças.
    * O texto formatado com assunto, destinatários, resumo executivo e descrição das ações tomadas.
@@ -312,7 +312,7 @@ São telas demonstrando a automatização da comunicação com o time de lideran
 
 4. **Quarta resposta**
    
- As imagens finais exibem o processo de:
+ As imagens 12, 13 e 14 exibem o processo de:
 
    * Criação do relatório detalhado em PDF, contendo cada log analisado.
    * Ajustes de layout solicitados (fonte, espaçamento, organização e estrutura da tabela).
