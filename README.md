@@ -206,14 +206,15 @@ Após a análise, consolida os resultados em uma tabela contendo: data, hora, us
 
 O arquivo `logs_suspeitos_200.py` foi carregado, contendo os dados de entrada para análise dos logs de usuários suspeitos. Este recurso serve como um repositório de vetores, permitindo a recuperação rápida de informações através do índice de pesquisa.
 
-<img width="1292" height="670" alt="image" src="https://github.com/user-attachments/assets/4934b568-7b9c-443d-8867-25e82fa3568f" />
+<img width="2292" height="670" alt="image" src="https://github.com/user-attachments/assets/4934b568-7b9c-443d-8867-25e82fa3568f" />
 
 
 ** Azure Foundry -Ações **
 
 O arquivo `agent_logs_pipeline_50.py`, cujo código em python está na aba de Codespace do GitHub, foi carregado para permitir que o agente execute a análise, calcule o score de suspeita, classifique os riscos e execute as ações necessárias (MFA, alerta, bloqueio). O código também gera o relatório e envia e-mails para as lideranças.
 
-![Uploading image.png…]()
+<img width="2251" height="678" alt="image" src="https://github.com/user-attachments/assets/15b480f8-6481-44f5-9205-03db75aca755" />
+
 
 ---
 
