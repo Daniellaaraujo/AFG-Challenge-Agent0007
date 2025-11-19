@@ -7,7 +7,7 @@ Este agente foi desenvolvido na plataforma Azure Foundry AI para realizar a aná
 
 ### **🎯 Problema **
 
-As equipes de Segurança enfrentam um volume crescente de logs suspeitos que tornam impossível:
+As equipes de Segurança enfrentam um volume crescente de logs suspeitos que tornam complexo:
 
 * Analisar cada evento manualmente.
 * Identificar padrões anômalos com rapidez.
