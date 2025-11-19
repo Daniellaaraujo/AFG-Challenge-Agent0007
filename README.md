@@ -174,7 +174,7 @@ O agente monta e envia automaticamente um e-mail corporativo às lideranças, co
 ### **Nome**: Agent 007
 
 ### **Implantação**: gpt-4.1-mini (versão: 2025-04-14)
-
+Imagem-001
 <img width="1288" height="615" alt="image" src="https://github.com/user-attachments/assets/b2eb065a-8a83-4d65-99fc-caa99893d553" />
 
 ### **Instruções**:
@@ -206,6 +206,7 @@ Após a análise, consolida os resultados em uma tabela contendo: data, hora, us
 
 O arquivo `logs_suspeitos_200.py` foi carregado, contendo os dados de entrada para análise dos logs de usuários suspeitos. Este recurso serve como um repositório de vetores, permitindo a recuperação rápida de informações através do índice de pesquisa.
 
+Imagem-002
 <img width="2292" height="670" alt="image" src="https://github.com/user-attachments/assets/4934b568-7b9c-443d-8867-25e82fa3568f" />
 
 
@@ -213,6 +214,7 @@ O arquivo `logs_suspeitos_200.py` foi carregado, contendo os dados de entrada pa
 
 O arquivo `agent_logs_pipeline_50.py`, cujo código em python está na aba de Codespace do GitHub, foi carregado para permitir que o agente execute a análise, calcule o score de suspeita, classifique os riscos e execute as ações necessárias (MFA, alerta, bloqueio). O código também gera o relatório e envia e-mails para as lideranças.
 
+Imagem-003
 <img width="2251" height="678" alt="image" src="https://github.com/user-attachments/assets/15b480f8-6481-44f5-9205-03db75aca755" />
 
 
@@ -232,6 +234,7 @@ Foram inseridos os seguintes Prompts:
 O agente gerou as seguintes respostas durante o processo:
 
 1. **Primeira resposta**
+   
     As imagens desta etapa representam a tela inicial do Agente 007, logo após ser acionado.
 Elas exibem:
 
@@ -247,6 +250,7 @@ Essa etapa demonstra que o agente iniciou corretamente a tarefa solicitada.
 
 
 2. **Segunda resposta**
+   
     As imagens desta fase mostram a interface do agente apresentando o Resumo Executivo. Assim, é possível visualizar:
 
    * Um painel com o total de eventos analisados e quantos foram classificados como suspeitos ou altamente suspeitos.
@@ -263,6 +267,7 @@ Essas imagens ajudam a entender rapidamente o panorama da investigação feita p
 <img width="1052" height="564" alt="image" src="https://github.com/user-attachments/assets/f5d5d963-a2dd-46f8-9c41-907593de0222" />
 
 3. **Terceira resposta**
+   
  As imagens desta etapa mostram:
 
    * A prévia do e-mail institucional preparado pelo Agente 007 para ser enviado às lideranças.
@@ -307,6 +312,7 @@ São telas demonstrando a automatização da comunicação com o time de lideran
 
 
 4. **Quarta resposta**
+   
  As imagens finais exibem o processo de:
 
    * Criação do relatório detalhado em PDF, contendo cada log analisado.
@@ -325,7 +331,11 @@ Essas imagens ilustram a entrega concluída do relatório contendo todos os even
 ---
 
 ### **Conclusão**
-Com a configuração do agente, as análises de comportamento suspeito foram realizadas, com relatórios detalhados e ações automatizadas para mitigar riscos de segurança. O resumo executivo e o relatório completo foram compartilhados com as lideranças, garantindo maior controle e tomada de decisão rápida.
+O processo realizado pelo Agente 007 demonstrou eficiência e precisão na análise de logs suspeitos, oferecendo uma visão completa do cenário de segurança. Desde o início das análises até a geração do relatório final, o agente executou todas as etapas de forma automatizada e estruturada, incluindo a detecção de eventos com alto nível de suspeita, a categorização de riscos, a sugestão e aplicação de ações preventivas, além da elaboração de um e-mail formal para comunicação com as lideranças.
+
+As imagens registradas ao longo do processo reforçam a transparência das ações realizadas, evidenciando o comportamento do sistema em cada etapa — desde o início do processamento, passando pela consolidação do Resumo Executivo, até a construção do relatório final em PDF.
+
+Com isso, o Agente 007 se consolida como uma ferramenta robusta de apoio à segurança da informação, capaz de acelerar análises complexas, padronizar comunicações e fornecer ao time de liderança insumos críticos para tomada de decisão rápida e fundamentada. O fluxo automatizado não apenas garante maior agilidade, como também contribui para a mitigação de riscos e o fortalecimento do ambiente de segurança da organização.
 
 ---
 
