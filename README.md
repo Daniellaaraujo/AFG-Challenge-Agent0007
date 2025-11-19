@@ -223,7 +223,7 @@ O arquivo `agent_logs_pipeline_50.py`, cujo código em python está na aba de Co
 
 Foram inseridos os seguintes Prompts:
 
-1. Identificar comportamentos anômalos por meio da correlação entre hora, origem geográfica (país/IP) e tipo de evento, com base nos registros no arquivo `logs_suspeitos_200.py`.
+1. Identificar comportamentos anômalos existentes nos registros do arquivo `logs_suspeitos_200.py essa análise deve ser feita por meio da correlação entre hora, origem geográfica (país/IP) e tipo de evento, `.
 2. Calcular um nível de suspeita (0-1) para cada registro, classificar o risco e definir ações a serem tomadas conforme o nível detectado.
 3. Consolidar os resultados em uma tabela e um resumo executivo, enviando um e-mail para as lideranças com o relatório e as ações executadas.
 
@@ -234,16 +234,31 @@ Foram inseridos os seguintes Prompts:
 O agente gerou as seguintes respostas durante o processo:
 
 1. **Primeira resposta**: Iniciou as análises de log conforme solicitado.
-   ![Primeira resposta](https://github.com/user-attachments/assets/88538ae7-0785-4e9a-a87b-1608254ddd3f)
+
+<img width="1095" height="632" alt="image" src="https://github.com/user-attachments/assets/ba788579-4779-475c-86a8-5fcdcd6489e9" />
+
 
 2. **Segunda resposta**: Gerou um Resumo Executivo com as análises, detalhando o número total de eventos, os eventos suspeitos e de alta suspeita, países de origem, horários críticos e ações sugeridas, como bloqueio ou exigência de MFA.
-   ![Segunda resposta](https://github.com/user-attachments/assets/f4256a5b-c215-4077-86eb-8d3adeef8cb2)
+
+<img width="1013" height="590" alt="image" src="https://github.com/user-attachments/assets/49c0aa21-784e-42cb-9863-838c720775ae" />
+
+<img width="1065" height="571" alt="image" src="https://github.com/user-attachments/assets/0634e73f-b84f-4357-a89b-ab288684a920" />
+
+<img width="1177" height="662" alt="image" src="https://github.com/user-attachments/assets/e6482ec4-ba59-410f-8670-3208fb2db12b" />
 
 3. **Terceira resposta**: Preparou o escopo do e-mail para envio às lideranças, contendo o resumo e o arquivo gerado.
-   ![Terceira resposta](https://github.com/user-attachments/assets/3e0522df-9b37-4dcf-99e6-eacd460b7cd1)
 
-4. **Quarta resposta**: Disponibilizou os arquivos para download nos formatos PDF e CSV.
-   ![Quarta resposta](https://github.com/user-attachments/assets/acc2d6f0-123f-4964-bcab-afdcdb716384)
+ <img width="1088" height="615" alt="image" src="https://github.com/user-attachments/assets/50196a9b-4440-4487-8939-b6880debb9db" />
+
+ <img width="1087" height="592" alt="image" src="https://github.com/user-attachments/assets/514f7a33-56ce-429a-bdd7-78b7be4a9396" />
+
+<img width="1060" height="542" alt="image" src="https://github.com/user-attachments/assets/ab19b462-31ea-421c-85c9-4cfd41927a75" />
+
+4. **Quarta resposta**: Disponibilizou os arquivos para download nos formatos PDF e txt.
+   
+<img width="1076" height="585" alt="image" src="https://github.com/user-attachments/assets/4138df19-5911-4cc2-b565-244940802430" />
+
+
 
 Após solicitações de ajustes no formato, o relatório foi gerado, incluindo cada log de usuário com seu respectivo score, nível de suspeita e ação recomendada, além de um resumo da análise. O PDF final foi anexado ao Read.me.
 ![Relatório gerado](https://github.com/user-attachments/assets/16045c05-e655-4665-b7c7-5eb85cda6237)
