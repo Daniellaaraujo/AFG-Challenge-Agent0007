@@ -286,18 +286,13 @@ O agente gerou as seguintes respostas durante o processo:
            
 
 
-4. **Quarta resposta**: Disponibilizou o arquivos para download PDF.
+4. **Quarta resposta**: Disponibilizou o arquivos para download PDF. Após solicitações de ajustes no formato, o relatório foi gerado, incluindo cada log de usuário com seu respectivo score, nível de suspeita e ação recomendada, além de um resumo da análise. O PDF final foi anexado ao Read.me.
    
    
-<img width="1076" height="585" alt="image" src="https://github.com/user-attachments/assets/4138df19-5911-4cc2-b565-244940802430" />
-
 <img width="1072" height="592" alt="image" src="https://github.com/user-attachments/assets/31c5fbcb-3756-4dc8-b8c2-68eca8a33b9d" />
 
 <img width="1079" height="660" alt="image" src="https://github.com/user-attachments/assets/59860e9b-5ed3-4e1f-a2ff-e86b12393bb4" />
 
-
-
-Após solicitações de ajustes no formato, o relatório foi gerado, incluindo cada log de usuário com seu respectivo score, nível de suspeita e ação recomendada, além de um resumo da análise. O PDF final foi anexado ao Read.me.
 
 ![Relatório gerado](https://github.com/user-attachments/assets/16045c05-e655-4665-b7c7-5eb85cda6237)
 
