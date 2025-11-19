@@ -236,9 +236,13 @@ O agente gerou as seguintes respostas durante o processo:
 1. **Primeira resposta**: Iniciou as análises de log conforme solicitado.
 
 <img width="1095" height="632" alt="image" src="https://github.com/user-attachments/assets/ba788579-4779-475c-86a8-5fcdcd6489e9" />
+<img width="1065" height="579" alt="image" src="https://github.com/user-attachments/assets/27ad5b1f-e5c8-4720-a47a-cf453641bb44" />
+<img width="1091" height="588" alt="image" src="https://github.com/user-attachments/assets/6b9c6e2d-bf3c-4633-8c3b-ae97f499864b" />
 
 
 2. **Segunda resposta**: Gerou um Resumo Executivo com as análises, detalhando o número total de eventos, os eventos suspeitos e de alta suspeita, países de origem, horários críticos e ações sugeridas, como bloqueio ou exigência de MFA.
+
+<img width="1100" height="645" alt="image" src="https://github.com/user-attachments/assets/40115a45-41b6-4dca-ae5d-703040de2d78" />
 
 <img width="1013" height="590" alt="image" src="https://github.com/user-attachments/assets/49c0aa21-784e-42cb-9863-838c720775ae" />
 
@@ -246,7 +250,49 @@ O agente gerou as seguintes respostas durante o processo:
 
 <img width="1177" height="662" alt="image" src="https://github.com/user-attachments/assets/e6482ec4-ba59-410f-8670-3208fb2db12b" />
 
-3. **Terceira resposta**: Preparou o escopo do e-mail para envio às lideranças, contendo o resumo e o arquivo gerado.
+<img width="1086" height="625" alt="image" src="https://github.com/user-attachments/assets/f8a3602e-2642-4c99-b7b5-208a3136c403" />
+
+<img width="1114" height="630" alt="image" src="https://github.com/user-attachments/assets/7f3378d7-ccc0-4ea9-8b47-f3ad7fc7ecdb" />
+
+<img width="1036" height="578" alt="image" src="https://github.com/user-attachments/assets/0bf8f244-0747-4441-ad22-76250e7fcab2" />
+
+<img width="1052" height="564" alt="image" src="https://github.com/user-attachments/assets/f5d5d963-a2dd-46f8-9c41-907593de0222" />
+
+3. **Terceira resposta**: Preparou o escopo do e-mail para envio às lideranças.
+
+
+<img width="1046" height="582" alt="image" src="https://github.com/user-attachments/assets/11d0ef82-fbef-4498-a95f-ed562ab40f47" />
+
+<img width="1076" height="658" alt="image" src="https://github.com/user-attachments/assets/a0cc3692-41e6-4dbe-b854-72df38af2675" />
+
+
+   Assunto: Relatório de Análise de Logs Suspeitos - Situação Atual e Ações Executadas
+
+          Para: verdeazulemerald@gmail.com
+          Cc: [Adicionar outros e-mails relevantes, se necessário]
+           
+          Prezados(as),
+          
+          Encaminho o relatório de análise dos últimos 200 registros de logs suspeitos, contendo a avaliação dos níveis de suspeita, classificação de riscos e as ações aplicadas.
+
+          Resumo Executivo:
+          
+          • Nº total de eventos suspeitos detectados: 200
+          • Eventos altamente suspeitos (score > 0,8): 34
+          • Origem das conexões suspeitas: Canadá, China, Chile, Índia, EUA, França, Alemanha, Brasil, Japão, México
+          • Horários de maior incidência: 06:30:33, 11:45:22, 04:08:48
+          • Ações executadas: Exigir MFA: 152, Bloquear e notificar liderança: 34, Nenhuma ação: 14
+          
+          O relatório completo em anexo detalha cada evento com o respectivo nível de suspeita, score e ação recomendada ou executada.
+          
+          Solicito especial atenção aos eventos classificados como “Alta suspeita”, para que as equipes possam atuar prontamente onde necessário.
+          
+          Fico à disposição para esclarecimentos adicionais.
+          
+          Atenciosamente,
+          [Seu Nome]
+          Equipe de Segurança da Informação
+           
 
  <img width="1088" height="615" alt="image" src="https://github.com/user-attachments/assets/50196a9b-4440-4487-8939-b6880debb9db" />
 
@@ -254,14 +300,20 @@ O agente gerou as seguintes respostas durante o processo:
 
 <img width="1060" height="542" alt="image" src="https://github.com/user-attachments/assets/ab19b462-31ea-421c-85c9-4cfd41927a75" />
 
-4. **Quarta resposta**: Disponibilizou os arquivos para download nos formatos PDF e txt.
+
+4. **Quarta resposta**: Disponibilizou o arquivos para download PDF.
    
 <img width="1076" height="585" alt="image" src="https://github.com/user-attachments/assets/4138df19-5911-4cc2-b565-244940802430" />
 
+<img width="1072" height="592" alt="image" src="https://github.com/user-attachments/assets/31c5fbcb-3756-4dc8-b8c2-68eca8a33b9d" />
+
+<img width="1079" height="660" alt="image" src="https://github.com/user-attachments/assets/59860e9b-5ed3-4e1f-a2ff-e86b12393bb4" />
 
 
 Após solicitações de ajustes no formato, o relatório foi gerado, incluindo cada log de usuário com seu respectivo score, nível de suspeita e ação recomendada, além de um resumo da análise. O PDF final foi anexado ao Read.me.
 ![Relatório gerado](https://github.com/user-attachments/assets/16045c05-e655-4665-b7c7-5eb85cda6237)
+
+<img width="1178" height="636" alt="image" src="https://github.com/user-attachments/assets/f0277256-d024-486e-816b-3731c4b29059" />
 
 ---
 
