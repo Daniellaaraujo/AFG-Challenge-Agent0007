@@ -4,6 +4,51 @@ Agente Inteligente de Análise de Logs Suspeitos
 
 Este agente foi desenvolvido na plataforma Azure Foundry AI para realizar a análise de logs suspeitos armazenados no banco de dados. Ele correlaciona dados como hora, país/IP e tipo de evento para identificar padrões anômalos. O agente calcula uma pontuação de suspeita (variando de 0 a 1), classifica os riscos de acordo com essa pontuação e sugere ações, como a aplicação de MFA, geração de alertas e bloqueios. Além disso, gera relatórios detalhados e resumos executivos para as lideranças, facilitando a tomada de decisões rápidas e informadas.
 
+Aqui está um **cartão de pitch** direto, visual e de alto impacto — pronto para usar em apresentação, slide, proposta ou README:
+
+---
+
+# **📇 Pitch Card – Agente 007 (Azure Foundry AI)**
+
+### **🎯 Problema **
+
+As equipes de Segurança enfrentam um volume crescente de logs suspeitos que tornam impossível:
+
+* Analisar cada evento manualmente.
+* Identificar padrões anômalos com rapidez.
+* Garantir ações consistentes e imediatas.
+* Traduzir dados técnicos para decisões executivas.
+  O resultado? **Atrasos, riscos maiores e baixa visibilidade sobre ameaças reais.**
+
+---
+
+### **Solução – O Agente 007**
+
+Um agente inteligente desenvolvido na **Azure Foundry AI** que:
+
+* Analisa automaticamente todos os logs suspeitos do banco de dados.
+* Correlaciona hora, país/IP e tipo de evento com precisão.
+* Calcula um **score de suspeita (0 a 1)** para classificar riscos.
+* Recomenda ou executa ações como **MFA, alertas e bloqueios**.
+* Gera **relatórios detalhados** e **resumos executivos** para lideranças.
+
+---
+
+### ** Benefícios-Chave**
+
+* **Visibilidade completa** dos padrões de ataque.
+* **Priorização objetiva** de riscos críticos.
+* **Respostas rápidas e padronizadas** a incidentes.
+* **Comunicação clara** com tomadores de decisão.
+* **Redução drástica do tempo de análise**.
+* **Fortalecimento proativo da segurança**.
+
+---
+
+### **📌 Em resumo**
+
+O Agente 007 transforma um fluxo caótico de logs em **inteligência acionável**, elevando a segurança para um nível automatizado, preciso e estratégico.
+
 ---
 
 
