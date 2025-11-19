@@ -51,7 +51,7 @@ O Agente 007 transforma um fluxo caótico de logs em **inteligência acionável*
 
 – **AFG-Challenge - Agent 007**
 
-– **Agente 007 — Passo a Passo Explicativo**
+– **Agente 007- Passo a Passo Explicativo**
 
 – **Etapas de Análise e Correlação**
 
@@ -59,14 +59,9 @@ O Agente 007 transforma um fluxo caótico de logs em **inteligência acionável*
 
 – **Interpretação e Ações Automáticas**
 
-* Faixa do Score
-
 – **Ações Sugeridas**
 
 – **Saídas Esperadas**
-
-* Relatório Estruturado
-* Resumo Executivo
 
 – **Agente Funcional no Foundry – Configurações Realizadas**
 
