@@ -160,7 +160,7 @@ O agente monta e envia automaticamente um e-mail corporativo às lideranças, co
 
 ### **Fluxo:**
 
-<img width="399" height="603" alt="image" src="https://github.com/user-attachments/assets/3fc4eec0-2b44-470f-b2d0-7f75b3aac81d" />
+<img width="399" height="603" alt="image" src="https://github.com/user-attachments/assets/3fc4eec0-2b44-470f-b2d0-7f75b3aac81d" /> Imagem-000
 
 
 
@@ -205,8 +205,7 @@ Após a análise, consolida os resultados em uma tabela contendo: data, hora, us
 
 ### **Azure Foundry - Conhecimento**
 
-O arquivo `logs_suspeitos_200.py` foi carregado, contendo os dados de entrada para análise dos logs de usuários suspeitos. Este recurso serve como um repositório de vetores, permitindo a recuperação rápida de informações através do índice de pesquisa.
-
+O arquivo `logs_suspeitos_200.py` foi carregado, contendo os dados de entrada para análise dos logs de usuários suspeitos. 
 
 <img width="2292" height="670" alt="image" src="https://github.com/user-attachments/assets/4934b568-7b9c-443d-8867-25e82fa3568f" /> Imagem-002
  
