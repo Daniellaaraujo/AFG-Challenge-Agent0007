@@ -4,11 +4,6 @@ Agente Inteligente de Análise de Logs Suspeitos
 
 Este agente foi desenvolvido na plataforma Azure Foundry AI para realizar a análise de logs suspeitos armazenados no banco de dados. Ele correlaciona dados como hora, país/IP e tipo de evento para identificar padrões anômalos. O agente calcula uma pontuação de suspeita (variando de 0 a 1), classifica os riscos de acordo com essa pontuação e sugere ações, como a aplicação de MFA, geração de alertas e bloqueios. Além disso, gera relatórios detalhados e resumos executivos para as lideranças, facilitando a tomada de decisões rápidas e informadas.
 
-Aqui está um **cartão de pitch** direto, visual e de alto impacto — pronto para usar em apresentação, slide, proposta ou README:
-
----
-
-# **📇 Pitch Card – Agente 007 (Azure Foundry AI)**
 
 ### **🎯 Problema **
 
@@ -59,13 +54,6 @@ O Agente 007 transforma um fluxo caótico de logs em **inteligência acionável*
 – **Agente 007 — Passo a Passo Explicativo**
 
 – **Etapas de Análise e Correlação**
-
-* Identificação temporal
-* Validação geográfica
-* Correlação de tipo de log
-* Correlação sequencial
-* Análise comportamental
-* Atribuição de pesos
 
 – **Cálculo do Nível de Suspeita (Score 0–1)**
 
