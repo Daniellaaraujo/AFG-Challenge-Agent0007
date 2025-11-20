@@ -61,7 +61,7 @@ O Agente 007 transforma um fluxo caótico de logs em **inteligência acionável*
 
 – **Cálculo do Nível de Suspeita (Score 0–1)**
 
-– **Interpretação e Ações Automáticas**
+– **Interpretação**
 
 – **Ações Sugeridas**
 
@@ -144,11 +144,11 @@ O 007 realiza uma análise contextual entre **hora**, **país/IP** e **tipo de e
 
 ---
 
-###  **Interpretação e Ações Automáticas**
+###  **Interpretação e Ações**
 
 1. O agente classifica o registro de acordo com a faixa de score:
 
-   | Faixa       | Interpretação        | Ação Automática                         |
+   | Faixa       | Interpretação        | Ação                        |
    | ----------- | -------------------- | --------------------------------------- |
    | 0.00 – 0.30 | Comportamento normal | Nenhuma ação                            |
    | 0.31 – 0.60 | Leve anomalia        | Solicitar MFA (autenticação multifator) |
@@ -186,7 +186,7 @@ O agente monta e envia automaticamente um e-mail corporativo às lideranças, co
 * Quantos tiveram **score > 0,8**.
 * Lista dos **países de origem** das conexões suspeitas.
 * **Horários de maior incidência** de anomalias.
-* Ações executadas (**bloqueios**, **MFA**, **alertas**).
+* Ações sugeridas (**bloqueios**, **MFA**, **alertas**).
 
 ---
 
@@ -369,7 +369,7 @@ As imagens registradas ao longo do processo reforçam a transparência das açõ
 Com isso, o Agente 007 se consolida como uma ferramenta robusta de apoio à segurança da informação, capaz de acelerar análises complexas, padronizar comunicações e fornecer ao time de liderança insumos críticos para tomada de decisão rápida e fundamentada. O fluxo automatizado não apenas garante maior agilidade, como também contribui para a mitigação de riscos e o fortalecimento do ambiente de segurança da organização.
 
 ---
-Referências
+**Referências**
 
 MICROSOFT. Microsoft Foundry AI. 2025. Disponível em: https://www.microsoft.com/
 . Acesso em: 20 nov. 2025.
