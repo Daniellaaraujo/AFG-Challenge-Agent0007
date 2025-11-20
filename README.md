@@ -394,6 +394,8 @@ OPENAI. ChatGPT – Modelo de Linguagem. 2025. Disponível em: https://chat.open
 MENINA DE CYBERSEC. Roadmap para Segurança da Informação. 2024. Disponível em: https://meninadecybersec.notion.site/Roadmap-para-Seguran-a-da-Informa-o-a51f94d9801044abaf8e76d43dfeab16
 . Acesso em: 20 nov. 2025.
 
+MICROSOFT CORPORATION. Microsoft Visio. Versão 2024. Redmond, WA: Microsoft, 2024. Software.
+
 
 
 
