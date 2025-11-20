@@ -194,19 +194,19 @@ O agente monta e envia automaticamente um e-mail corporativo às lideranças, co
 
 <img width="781" height="235" alt="image" src="https://github.com/user-attachments/assets/25ddf9b2-5933-4175-a823-6aa644569029" />
 
-1.	ENTRADA:agent_logs_pipeline_200.py
+1.	**Entrada:** agent_logs_pipeline_200.py
    
 * Script responsável por carregar e estruturar o arquivo logs_suspeitos_200, utilizado como base de dados da análise.
 * Realiza a leitura, organização e pré-processamento dos registros.
 * Garante que o agente receba os dados formatados corretamente.
 
-2.	PROCESSAMENTO:agent_logs_pipeline_50.py
+2.	**Processamento:** agent_logs_pipeline_50.py
 
 * Código principal que executa a lógica do agente inteligente.
 * Calcula o score de suspeita, classifica o nível de risco e define ações (MFA, alerta, bloqueio).
 * Gera relatórios e envia e-mails para as lideranças.
 
-3.	SAÍDA: OUTPUT_relatorio_logs_suspeitos_formatado.pdf
+3.	**Saída:** OUTPUT_relatorio_logs_suspeitos_formatado.pdf
 
 * Relatório final gerado pelo agente.
 * Contém evidências, classificações de risco, score de suspeita e recomendações automáticas.
