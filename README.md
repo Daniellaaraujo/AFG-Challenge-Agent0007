@@ -29,7 +29,7 @@ Um agente inteligente desenvolvido na **Azure Foundry AI** que:
 
 ---
 
-###  Benefícios-Chave
+###  Benefícios
 
 * **Visibilidade completa** dos padrões de ataque.
 * **Priorização objetiva** de riscos críticos.
@@ -48,10 +48,6 @@ O Agente 007 transforma um fluxo caótico de logs em **inteligência acionável*
 
 
 ### Índice de Tópicos Abordados 
-
-– **AFG-Challenge - Agent 007**
-
-– **Passo a Passo Explicativo**
 
 – **Entrada de dados**
 
