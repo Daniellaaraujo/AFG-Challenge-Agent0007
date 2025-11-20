@@ -85,7 +85,7 @@ O Agente 007 transforma um fluxo caótico de logs em **inteligência acionável*
 
 ###  **Entrada de Dados**
 
-1. O agente acessa o banco de dados e lê **50 registros** do arquivo `logs_suspeitos_200`.
+1. O agente acessa o banco de dados e lê o arquivo `logs_suspeitos_200`.
 2. Cada registro contém as colunas:
 
    * **Data** → Quando o evento ocorreu.
