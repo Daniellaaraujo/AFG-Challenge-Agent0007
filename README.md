@@ -53,6 +53,10 @@ O Agente 007 transforma um fluxo caótico de logs em **inteligência acionável*
 
 – **Passo a Passo Explicativo**
 
+– **Entrada de dados**
+
+– **Regras de Comportamento Normal**
+
 – **Etapas de Análise e Correlação**
 
 – **Cálculo do Nível de Suspeita (Score 0–1)**
