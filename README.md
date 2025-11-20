@@ -79,6 +79,8 @@ O Agente 007 transforma um fluxo caótico de logs em **inteligência acionável*
 
 – **Conclusão**
 
+– **Referências**
+
 ---
 
 ## Passo a Passo Explicativo
