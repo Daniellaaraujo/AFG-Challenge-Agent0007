@@ -191,7 +191,6 @@ O agente monta e envia automaticamente um e-mail corporativo às lideranças, co
 ---
 
 ### **Arquivos do Projeto**
-
 <img width="781" height="235" alt="image" src="https://github.com/user-attachments/assets/25ddf9b2-5933-4175-a823-6aa644569029" />
 
 1.	**Entrada:** agent_logs_pipeline_200.py
