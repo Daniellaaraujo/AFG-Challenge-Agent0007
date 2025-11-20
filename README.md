@@ -188,9 +188,11 @@ O agente monta e envia automaticamente um e-mail corporativo às lideranças, co
 * **Horários de maior incidência** de anomalias.
 * Ações sugeridas (**bloqueios**, **MFA**, **alertas**).
 
-<img width="781" height="235" alt="image" src="https://github.com/user-attachments/assets/25ddf9b2-5933-4175-a823-6aa644569029" />
+---
 
 ### **Arquivos do Projeto**
+
+<img width="781" height="235" alt="image" src="https://github.com/user-attachments/assets/25ddf9b2-5933-4175-a823-6aa644569029" />
 
 1.	ENTRADA:agent_logs_pipeline_200.py
    
