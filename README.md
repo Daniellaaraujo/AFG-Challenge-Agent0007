@@ -252,9 +252,9 @@ O arquivo `agent_logs_pipeline_50.py`, cujo código em python está na aba de Co
 
 Foram inseridos os seguintes Prompts:
 
-1. Identificar comportamentos anômalos existentes nos registros do arquivo `logs_suspeitos_200.py essa análise deve ser feita por meio da correlação entre hora, origem geográfica (país/IP) e tipo de evento, `.
-2. Calcular um nível de suspeita (0-1) para cada registro, classificar o risco e definir ações a serem tomadas conforme o nível detectado.
-3. Consolidar os resultados em uma tabela e um resumo executivo, enviando um e-mail para as lideranças com o relatório e as ações executadas.
+1. Identificar comportamentos anômalos existentes nos registros do arquivo `logs_suspeitos_200.py. Essa análise deve ser feita por meio da correlação entre hora, origem geográfica (país/IP) e tipo de evento.
+3. Calcular um nível de suspeita (0-1) para cada registro, classificar o risco e definir ações a serem tomadas conforme o nível detectado.
+4. Consolidar os resultados em uma tabela e um resumo executivo, enviando um e-mail para as lideranças com o relatório e as ações executadas.
 
 ---
 
@@ -365,11 +365,16 @@ As imagens registradas ao longo do processo reforçam a transparência das açõ
 Com isso, o Agente 007 se consolida como uma ferramenta robusta de apoio à segurança da informação, capaz de acelerar análises complexas, padronizar comunicações e fornecer ao time de liderança insumos críticos para tomada de decisão rápida e fundamentada. O fluxo automatizado não apenas garante maior agilidade, como também contribui para a mitigação de riscos e o fortalecimento do ambiente de segurança da organização.
 
 ---
+Referências
 
-Obrigada!!
+MICROSOFT. Microsoft Foundry AI. 2025. Disponível em: https://www.microsoft.com/
+. Acesso em: 20 nov. 2025.
 
-Fim!!
+OPENAI. ChatGPT – Modelo de Linguagem. 2025. Disponível em: https://chat.openai.com/
+. Acesso em: 20 nov. 2025.
 
+MENINA DE CYBERSEC. Roadmap para Segurança da Informação. 2024. Disponível em: https://meninadecybersec.notion.site/Roadmap-para-Seguran-a-da-Informa-o-a51f94d9801044abaf8e76d43dfeab16
+. Acesso em: 20 nov. 2025.
 
 
 
